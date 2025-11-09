@@ -5,7 +5,7 @@
 📍 Rochester, NY  
 
 ### 🧠 About Me
-Data Engineer & ML Enthusiast with experience building scalable data pipelines, cloud workflows, and interpretable machine learning models using Python, SQL, GCP, ETL, Tableau and AI/ML.
+Data Engineer & ML Enthusiast with experience building scalable data pipelines, cloud workflows, interpretable machine learning models, and big data ecosystems. Proficient in Python, SQL, GCP, data warehousing, Data Structures and dimensional data modeling to drive informed decision-making. Adept at optimizing data pipelines, ensuring data quality, and communicating insights to stakeholders. Passionate about leveraging data to solve challenging problems and enhance product strategies.
 
 ### ⚙️ Skills
 **Programming & ML:** Python, SQL, C++, R, Apache Spark, Machine Learning, Deep Learning  
